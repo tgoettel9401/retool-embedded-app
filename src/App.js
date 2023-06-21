@@ -22,8 +22,8 @@ function App() {
         <h1>Embedding Retool-App now</h1>
 
           <Retool
-              url="http://192.168.94.34:3000/embedded/public/2b872099-2947-4c45-a51c-cabfb9dbadc7">
-              data={{name: 'Tobias'}}
+              url="http://192.168.94.34:3000/embedded/public/2b872099-2947-4c45-a51c-cabfb9dbadc7"
+              data={{name: 'Tobias'}}>
           </Retool>
 
       </header>
